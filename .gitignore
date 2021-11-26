@@ -1,0 +1,3 @@
+# VuePress 自身目录
+node_modules
+.vuepress/dist
